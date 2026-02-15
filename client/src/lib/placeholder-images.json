@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "monstera-1",
+      "description": "A healthy Monstera Deliciosa plant in a pot.",
+      "imageUrl": "https://picsum.photos/seed/monstera1/600/800",
+      "imageHint": "monstera plant"
+    },
+    {
+      "id": "snake-plant-1",
+      "description": "A tall Snake Plant (Sansevieria Trifasciata).",
+      "imageUrl": "https://picsum.photos/seed/snakeplant1/600/800",
+      "imageHint": "snake plant"
+    },
+    {
+      "id": "pothos-1",
+      "description": "A lush Golden Pothos with trailing vines.",
+      "imageUrl": "https://picsum.photos/seed/pothos1/800/600",
+      "imageHint": "pothos plant"
+    },
+    {
+      "id": "succulent-1",
+      "description": "A small Echeveria succulent.",
+      "imageUrl": "https://picsum.photos/seed/succulent1/600/600",
+      "imageHint": "succulent plant"
+    },
+    {
+      "id": "fiddle-leaf-1",
+      "description": "A Fiddle Leaf Fig tree in a bright room.",
+      "imageUrl": "https://picsum.photos/seed/fiddleleaf1/600/900",
+      "imageHint": "fiddle-leaf fig"
+    },
+    {
+      "id": "seeds-1",
+      "description": "A packet of sunflower seeds.",
+      "imageUrl": "https://picsum.photos/seed/seeds1/600/400",
+      "imageHint": "seed packet"
+    },
+    {
+      "id": "watering-can-1",
+      "description": "A stylish metal watering can.",
+      "imageUrl": "https://picsum.photos/seed/wateringcan1/600/600",
+      "imageHint": "watering can"
+    },
+    {
+      "id": "gardening-tools-1",
+      "description": "A set of small gardening tools including a trowel and a rake.",
+      "imageUrl": "https://picsum.photos/seed/gardentools1/600/400",
+      "imageHint": "gardening tools"
+    },
+    {
+      "id": "bonsai-1",
+      "description": "A small bonsai tree on a wooden table.",
+      "imageUrl": "https://picsum.photos/seed/bonsai1/600/600",
+      "imageHint": "bonsai tree"
+    },
+    {
+      "id": "cactus-1",
+      "description": "A flowering cactus in a terracotta pot.",
+      "imageUrl": "https://picsum.photos/seed/cactus1/600/800",
+      "imageHint": "cactus plant"
+    },
+    {
+      "id": "zz-plant-1",
+      "description": "A ZZ Plant with dark green glossy leaves.",
+      "imageUrl": "https://picsum.photos/seed/zzplant1/600/800",
+      "imageHint": "zz plant"
+    },
+    {
+      "id": "aloe-vera-1",
+      "description": "An Aloe Vera plant.",
+      "imageUrl": "https://picsum.photos/seed/aloevera1/600/600",
+      "imageHint": "aloe vera"
+    }
+  ]
+}

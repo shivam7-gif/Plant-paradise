@@ -1,0 +1,2 @@
+# Plant Paradise
+It is an AI-powered ecosystem designed to bridge the knowledge gap for Gen Z and urban gardeners. It features AI Camera Scans for instant identification and health diagnosis. To drive engagement, it uses Snapchat-style streaks and witty, fun reminders like "Don't be a succ-er". A centralized marketplace connects Tier 1 and Tier 2 cities, allowing users to buy and sell plants, seeds, and manure while supporting local nursery owners.

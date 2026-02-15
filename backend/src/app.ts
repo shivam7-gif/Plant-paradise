@@ -1,0 +1,11 @@
+import express from "express";
+import cors from "cors";
+const app = express();
+import router from "../route/routes";
+import flowerRouter from "../route/Flowers.routes";
+app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use("/api",router);
+app.use("/api/testing",flowerRouter);
+export default app;
